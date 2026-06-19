@@ -11,7 +11,7 @@
 
 ## Environment Verification
 
-Successfully verified Python runtime and package installations.
+Successfully verified Python runtime and package installations using [main.py](main.py).
 
 ## Week 01 Deliverables
 
